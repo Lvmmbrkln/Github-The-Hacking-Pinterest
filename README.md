@@ -1,6 +1,5 @@
 # README
-CASSAND Gwendoline & Nancy
-
+Groupe de Gwen
 
 Lancer les commandes suivante:
 ---------------------
